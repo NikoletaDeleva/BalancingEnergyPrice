@@ -1,0 +1,45 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Data files (optional, uncomment if needed)
+# data/
+# *.csv
+# *.xlsx
+# *.zip
+
+# Output artifacts
+*.png
+*.pdf
+*.svg
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+

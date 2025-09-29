@@ -70,3 +70,6 @@ Y_pred = mm.predict(X_test)
 mm.evaluate(X_train, Y_train)
 
 mm.evaluate(X_test, Y_test)
+
+# Save feature importances
+mm.save_feature_importance(Path(p.output_dir))
