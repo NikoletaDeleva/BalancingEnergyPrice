@@ -22,4 +22,4 @@ WEIGHTS = {
 }
 
 # ENTSO-E API token (free registration at https://transparency.entsoe.eu/ and email them for a token)
-API_TOKEN = "9a586d8d-9e54-44b8-8efe-18c23ef7d3bf"
+API_TOKEN = ""
