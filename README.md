@@ -145,3 +145,5 @@ Each metric is computed per horizon (t0–t23).
 
 ## Usage
 
+* Fill the parameters in the params.py 
+* Execute from the executable folder first dataPrep.py then forecast.py
